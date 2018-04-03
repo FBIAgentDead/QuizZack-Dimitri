@@ -1,0 +1,23 @@
+body{
+    background-color: lightblue;
+}
+
+#content{
+    text-align: center;
+    font-family: Eigenfont;
+    font-size: 50px;
+    border: 3px groove lightcoral;
+    outline: 2px solid pink;
+    margin-left: 400px;
+    margin-right: 400px;
+    background-color: lightsalmon;
+}
+
+@font-face {
+    font-family: Eigenfont;
+    src: url(../font/Funny&Cute.ttf);
+}
+
+hr.hrstyle{
+
+}
